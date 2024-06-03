@@ -14,7 +14,7 @@ All combinations of DD/MM/YY should work
 Clone the Repository:
 
 
-1. git clone https://github.com/yourusername/trello-to-excel.git
+1. git clone this repo
 
 2. cd trello-to-excel
 
