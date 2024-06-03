@@ -2,17 +2,18 @@
 Export Trello contains to Excel Spreadsheet
 
 How to 
-Example Entry: Card - Kubernetes - Foundations of kubernetes - Udemy Course
-Example under above Card: 7/6/24 [3] [S] Learnt about Ingress and how it incorporates with AWS and other cloud providers
-Example under above Card: 8/6/24 [3] [K] Continuing to learn more about ingress and other services associated with kubernetes, also spending time to learn more about networking in Kubernetes
+Example Card Entry: Foundations of kubernetes - Udemy Course
+Example under above Card:
+7/6/24 [3] [S] Learnt about Ingress and how it incorporates with AWS and other cloud providers
+Example under above Card:
+8/6/24 [3] [K] Continuing to learn more about ingress and other services associated with kubernetes, also spending time to learn more about networking in Kubernetes
 
 All combinations of DD/MM/YY should work
 [n] = Number of hours spent on task
 [K] Knowledge, [S] Skill, [B] Behaviour
 
 
-Clone the Repository:
-
+STEPS
 
 1. git clone this repo
 
