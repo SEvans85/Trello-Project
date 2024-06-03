@@ -21,7 +21,9 @@ Clone the Repository:
 3. Install Dependencies:
 pip install -r requirements.txt
 
-4. Edit config.json:
+4. Create an API KEY / TOKEN on Trello
+   
+5. Edit config.json:
 
 {
   "API_KEY": "your_api_key",
@@ -31,8 +33,7 @@ pip install -r requirements.txt
   "YEAR": "2024"
 }
 
-
-5. Run the Script:
+6. Run the Script:
 python trello.py
 
 
