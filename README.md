@@ -24,15 +24,7 @@ pip install -r requirements.txt
 
 4. Create an API KEY / TOKEN on Trello
    
-5. Edit config.json:
-
-{
-  "API_KEY": "your_api_key",
-  "TOKEN": "your_token",
-  "BOARD_ID": "your_board_id",
-  "MONTH": "05",
-  "YEAR": "2024"
-}
+5. Edit config.json with your API KEY, TOKEN, BOARD_ID, NAME, YEAR AND MONTH
 
 6. Run the Script:
 python trello.py
